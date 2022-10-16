@@ -119,9 +119,11 @@ Then Construct the timmimg diagra
 
 ### PROGRAM 
 /*
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: Sharmila A
 RegisterNumber:  212221230094
+```
 ## Code 1:
 ```
 module flipflop(S,R,clock,Q,Qbar);
@@ -203,5 +205,6 @@ endmodule
 ## Timing Diagram 4:
 ![imgg1 (5)](https://user-images.githubusercontent.com/94506182/196020968-af545815-e964-4e09-b3bb-3134e720909a.jpeg)
 
-### RESULTS Implementing of all the flipflops using verilog and validating their functionality using their
+### RESULTS 
+Implementing of all the flipflops using verilog and validating their functionality using their
 functional tables is successfully Completed.
